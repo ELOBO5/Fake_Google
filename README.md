@@ -4,7 +4,7 @@
 
 ### Installation
 - Clone or download the repo.
-- Open terminal and navigate to Lap_1_Challenge_Fake_Google Folder.
+- Open terminal and navigate to Lap-1-Code-Challenge-Google-Clone Folder.
 - Run npm install to install dependencies.
 
 ### Usage
