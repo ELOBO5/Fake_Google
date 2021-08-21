@@ -14,7 +14,7 @@
 ## Changelog
 
 ### index.html
-- Added navbar, logo, search bar and two buttons
+- Added navbar, logo, search bar and two buttons.
 
 ### app.js
 - Created a route for retrieving cat data.
